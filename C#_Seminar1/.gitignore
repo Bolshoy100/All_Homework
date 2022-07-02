@@ -1,0 +1,11 @@
+*.obj
+*.json
+*.props
+*.targets
+*.cache
+*.csproj
+bin
+ref
+refint
+Debag
+obj
