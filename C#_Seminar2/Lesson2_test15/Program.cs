@@ -3,7 +3,7 @@
 void WeekDay()
 {
 	int num;
-	Console.WriteLine("Input any week day number from one to seven: ");
+	Console.Write("Input any week day number from one to seven: ");
 	num = Convert.ToInt32(Console.ReadLine());
     
 	if (num > 7) Console.WriteLine("the day of the week does not exist");
