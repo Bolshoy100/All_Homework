@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\bin\Debug\net6.0\Lesson2_test13.exe
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\bin\Debug\net6.0\Lesson2_test13.deps.json
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\bin\Debug\net6.0\Lesson2_test13.runtimeconfig.json
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\bin\Debug\net6.0\Lesson2_test13.dll
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\bin\Debug\net6.0\Lesson2_test13.pdb
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\obj\Debug\net6.0\Lesson2_test13.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\obj\Debug\net6.0\Lesson2_test13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\obj\Debug\net6.0\Lesson2_test13.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\obj\Debug\net6.0\Lesson2_test13.AssemblyInfo.cs
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\obj\Debug\net6.0\Lesson2_test13.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\obj\Debug\net6.0\Lesson2_test13.dll
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\obj\Debug\net6.0\refint\Lesson2_test13.dll
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\obj\Debug\net6.0\Lesson2_test13.pdb
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\obj\Debug\net6.0\Lesson2_test13.genruntimeconfig.cache
+C:\Users\1\Desktop\All_Homework\C#-Seminar2\Lesson2_test13\obj\Debug\net6.0\ref\Lesson2_test13.dll
