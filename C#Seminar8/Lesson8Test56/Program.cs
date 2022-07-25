@@ -21,8 +21,6 @@ void Show2dArray(int[,] array)
 
 Console.Write("Input square array size: ");
 int m = Convert.ToInt32(Console.ReadLine());
-//Console.Write("Input number of columns: ");
-//int n = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input min possible value: ");
 int min = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input max possible value: ");
